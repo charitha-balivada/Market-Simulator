@@ -1,72 +1,16 @@
 [
   {
     "tick": 0,
-    "price": 99.875,
+    "price": 100.2,
     "agents": [
       {
         "id": "B0",
-        "cash": 900.125,
+        "cash": 899.92,
         "inventory": 1
       },
       {
         "id": "S0",
-        "cash": 1000,
-        "inventory": 8
-      },
-      {
-        "id": "B1",
-        "cash": 1000,
-        "inventory": 0
-      },
-      {
-        "id": "S1",
-        "cash": 1100.005,
-        "inventory": 15
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
-        "inventory": 0
-      },
-      {
-        "id": "S2",
-        "cash": 1000,
-        "inventory": 15
-      },
-      {
-        "id": "B3",
-        "cash": 1000,
-        "inventory": 0
-      },
-      {
-        "id": "S3",
-        "cash": 1000,
-        "inventory": 13
-      },
-      {
-        "id": "B4",
-        "cash": 899.995,
-        "inventory": 1
-      },
-      {
-        "id": "S4",
-        "cash": 1099.875,
-        "inventory": 8
-      }
-    ]
-  },
-  {
-    "tick": 1,
-    "price": 99.78,
-    "agents": [
-      {
-        "id": "B0",
-        "cash": 800.105,
-        "inventory": 2
-      },
-      {
-        "id": "S0",
-        "cash": 1099.78,
+        "cash": 1100.08,
         "inventory": 7
       },
       {
@@ -76,175 +20,7 @@
       },
       {
         "id": "S1",
-        "cash": 1200.025,
-        "inventory": 14
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
-        "inventory": 0
-      },
-      {
-        "id": "S2",
-        "cash": 1000,
-        "inventory": 15
-      },
-      {
-        "id": "B3",
-        "cash": 900.02,
-        "inventory": 1
-      },
-      {
-        "id": "S3",
-        "cash": 1000,
-        "inventory": 13
-      },
-      {
-        "id": "B4",
-        "cash": 800.215,
-        "inventory": 2
-      },
-      {
-        "id": "S4",
-        "cash": 1199.855,
-        "inventory": 7
-      }
-    ]
-  },
-  {
-    "tick": 2,
-    "price": 99.675,
-    "agents": [
-      {
-        "id": "B0",
-        "cash": 700.455,
-        "inventory": 3
-      },
-      {
-        "id": "S0",
-        "cash": 1199.455,
-        "inventory": 6
-      },
-      {
-        "id": "B1",
-        "cash": 1000,
-        "inventory": 0
-      },
-      {
-        "id": "S1",
-        "cash": 1299.6750000000002,
-        "inventory": 13
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
-        "inventory": 0
-      },
-      {
-        "id": "S2",
-        "cash": 1000,
-        "inventory": 15
-      },
-      {
-        "id": "B3",
-        "cash": 900.02,
-        "inventory": 1
-      },
-      {
-        "id": "S3",
-        "cash": 1000,
-        "inventory": 13
-      },
-      {
-        "id": "B4",
-        "cash": 700.5400000000001,
-        "inventory": 3
-      },
-      {
-        "id": "S4",
-        "cash": 1199.855,
-        "inventory": 7
-      }
-    ]
-  },
-  {
-    "tick": 3,
-    "price": 99.92500000000001,
-    "agents": [
-      {
-        "id": "B0",
-        "cash": 600.58,
-        "inventory": 4
-      },
-      {
-        "id": "S0",
-        "cash": 1199.455,
-        "inventory": 6
-      },
-      {
-        "id": "B1",
-        "cash": 900.045,
-        "inventory": 1
-      },
-      {
-        "id": "S1",
-        "cash": 1399.5500000000002,
-        "inventory": 12
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
-        "inventory": 0
-      },
-      {
-        "id": "S2",
-        "cash": 1099.955,
-        "inventory": 14
-      },
-      {
-        "id": "B3",
-        "cash": 900.02,
-        "inventory": 1
-      },
-      {
-        "id": "S3",
-        "cash": 1000,
-        "inventory": 13
-      },
-      {
-        "id": "B4",
-        "cash": 600.615,
-        "inventory": 4
-      },
-      {
-        "id": "S4",
-        "cash": 1299.78,
-        "inventory": 6
-      }
-    ]
-  },
-  {
-    "tick": 4,
-    "price": 99.57,
-    "agents": [
-      {
-        "id": "B0",
-        "cash": 600.58,
-        "inventory": 4
-      },
-      {
-        "id": "S0",
-        "cash": 1199.455,
-        "inventory": 6
-      },
-      {
-        "id": "B1",
-        "cash": 900.045,
-        "inventory": 1
-      },
-      {
-        "id": "S1",
-        "cash": 1499.1200000000001,
+        "cash": 1100.07,
         "inventory": 11
       },
       {
@@ -254,2547 +30,2771 @@
       },
       {
         "id": "S2",
-        "cash": 1099.955,
+        "cash": 1000,
         "inventory": 14
       },
       {
         "id": "B3",
-        "cash": 900.02,
+        "cash": 899.8,
         "inventory": 1
       },
       {
         "id": "S3",
+        "cash": 1100.2,
+        "inventory": 16
+      },
+      {
+        "id": "B4",
+        "cash": 899.9300000000001,
+        "inventory": 1
+      },
+      {
+        "id": "S4",
         "cash": 1000,
+        "inventory": 7
+      }
+    ]
+  },
+  {
+    "tick": 1,
+    "price": 100.23,
+    "agents": [
+      {
+        "id": "B0",
+        "cash": 799.8199999999999,
+        "inventory": 2
+      },
+      {
+        "id": "S0",
+        "cash": 1200.2849999999999,
+        "inventory": 6
+      },
+      {
+        "id": "B1",
+        "cash": 899.98,
+        "inventory": 1
+      },
+      {
+        "id": "S1",
+        "cash": 1200.09,
+        "inventory": 10
+      },
+      {
+        "id": "B2",
+        "cash": 899.795,
+        "inventory": 1
+      },
+      {
+        "id": "S2",
+        "cash": 1000,
+        "inventory": 14
+      },
+      {
+        "id": "B3",
+        "cash": 899.8,
+        "inventory": 1
+      },
+      {
+        "id": "S3",
+        "cash": 1200.43,
+        "inventory": 15
+      },
+      {
+        "id": "B4",
+        "cash": 799.7,
+        "inventory": 2
+      },
+      {
+        "id": "S4",
+        "cash": 1100.1,
+        "inventory": 6
+      }
+    ]
+  },
+  {
+    "tick": 2,
+    "price": 100.305,
+    "agents": [
+      {
+        "id": "B0",
+        "cash": 799.8199999999999,
+        "inventory": 2
+      },
+      {
+        "id": "S0",
+        "cash": 1300.465,
+        "inventory": 5
+      },
+      {
+        "id": "B1",
+        "cash": 799.8,
+        "inventory": 2
+      },
+      {
+        "id": "S1",
+        "cash": 1300.51,
+        "inventory": 9
+      },
+      {
+        "id": "B2",
+        "cash": 799.375,
+        "inventory": 2
+      },
+      {
+        "id": "S2",
+        "cash": 1000,
+        "inventory": 14
+      },
+      {
+        "id": "B3",
+        "cash": 799.4949999999999,
+        "inventory": 2
+      },
+      {
+        "id": "S3",
+        "cash": 1300.7350000000001,
+        "inventory": 14
+      },
+      {
+        "id": "B4",
+        "cash": 699.5,
+        "inventory": 3
+      },
+      {
+        "id": "S4",
+        "cash": 1200.3,
+        "inventory": 5
+      }
+    ]
+  },
+  {
+    "tick": 3,
+    "price": 100.58500000000001,
+    "agents": [
+      {
+        "id": "B0",
+        "cash": 799.8199999999999,
+        "inventory": 2
+      },
+      {
+        "id": "S0",
+        "cash": 1401.0049999999999,
+        "inventory": 4
+      },
+      {
+        "id": "B1",
+        "cash": 699.42,
+        "inventory": 3
+      },
+      {
+        "id": "S1",
+        "cash": 1401.095,
+        "inventory": 8
+      },
+      {
+        "id": "B2",
+        "cash": 698.99,
+        "inventory": 3
+      },
+      {
+        "id": "S2",
+        "cash": 1000,
+        "inventory": 14
+      },
+      {
+        "id": "B3",
+        "cash": 698.9549999999999,
+        "inventory": 3
+      },
+      {
+        "id": "S3",
+        "cash": 1401.1150000000002,
         "inventory": 13
       },
       {
         "id": "B4",
-        "cash": 501.045,
+        "cash": 598.915,
+        "inventory": 4
+      },
+      {
+        "id": "S4",
+        "cash": 1300.685,
+        "inventory": 4
+      }
+    ]
+  },
+  {
+    "tick": 4,
+    "price": 100.56,
+    "agents": [
+      {
+        "id": "B0",
+        "cash": 699.3,
+        "inventory": 3
+      },
+      {
+        "id": "S0",
+        "cash": 1501.5649999999998,
+        "inventory": 3
+      },
+      {
+        "id": "B1",
+        "cash": 598.895,
+        "inventory": 4
+      },
+      {
+        "id": "S1",
+        "cash": 1501.615,
+        "inventory": 7
+      },
+      {
+        "id": "B2",
+        "cash": 598.55,
+        "inventory": 4
+      },
+      {
+        "id": "S2",
+        "cash": 1100.58,
+        "inventory": 13
+      },
+      {
+        "id": "B3",
+        "cash": 598.3749999999999,
+        "inventory": 4
+      },
+      {
+        "id": "S3",
+        "cash": 1501.6400000000003,
+        "inventory": 12
+      },
+      {
+        "id": "B4",
+        "cash": 498.35499999999996,
         "inventory": 5
       },
       {
         "id": "S4",
-        "cash": 1299.78,
-        "inventory": 6
+        "cash": 1401.125,
+        "inventory": 3
       }
     ]
   },
   {
     "tick": 5,
-    "price": 99.475,
+    "price": 100.705,
     "agents": [
       {
         "id": "B0",
-        "cash": 600.58,
+        "cash": 598.505,
         "inventory": 4
       },
       {
         "id": "S0",
-        "cash": 1298.9299999999998,
-        "inventory": 5
+        "cash": 1602.2499999999998,
+        "inventory": 2
       },
       {
         "id": "B1",
-        "cash": 800.5699999999999,
-        "inventory": 2
+        "cash": 498.19,
+        "inventory": 5
       },
       {
         "id": "S1",
-        "cash": 1598.91,
-        "inventory": 10
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
-        "inventory": 0
-      },
-      {
-        "id": "S2",
-        "cash": 1099.955,
-        "inventory": 14
-      },
-      {
-        "id": "B3",
-        "cash": 800.23,
-        "inventory": 2
-      },
-      {
-        "id": "S3",
-        "cash": 1000,
-        "inventory": 13
-      },
-      {
-        "id": "B4",
-        "cash": 401.17,
+        "cash": 1602.41,
         "inventory": 6
       },
       {
-        "id": "S4",
-        "cash": 1399.655,
+        "id": "B2",
+        "cash": 598.55,
+        "inventory": 4
+      },
+      {
+        "id": "S2",
+        "cash": 1100.58,
+        "inventory": 13
+      },
+      {
+        "id": "B3",
+        "cash": 497.6899999999999,
         "inventory": 5
+      },
+      {
+        "id": "S3",
+        "cash": 1602.3450000000003,
+        "inventory": 11
+      },
+      {
+        "id": "B4",
+        "cash": 498.35499999999996,
+        "inventory": 5
+      },
+      {
+        "id": "S4",
+        "cash": 1401.125,
+        "inventory": 3
       }
     ]
   },
   {
     "tick": 6,
-    "price": 99.31,
+    "price": 100.75,
     "agents": [
       {
         "id": "B0",
-        "cash": 600.58,
+        "cash": 598.505,
         "inventory": 4
       },
       {
         "id": "S0",
-        "cash": 1298.9299999999998,
-        "inventory": 5
+        "cash": 1703.0499999999997,
+        "inventory": 1
       },
       {
         "id": "B1",
-        "cash": 800.5699999999999,
-        "inventory": 2
+        "cash": 397.39,
+        "inventory": 6
       },
       {
         "id": "S1",
-        "cash": 1698.1950000000002,
-        "inventory": 9
+        "cash": 1703.0900000000001,
+        "inventory": 5
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 497.86999999999995,
+        "inventory": 5
       },
       {
         "id": "S2",
-        "cash": 1099.955,
-        "inventory": 14
-      },
-      {
-        "id": "B3",
-        "cash": 700.945,
-        "inventory": 3
-      },
-      {
-        "id": "S3",
-        "cash": 1000,
+        "cash": 1100.58,
         "inventory": 13
       },
       {
+        "id": "B3",
+        "cash": 497.6899999999999,
+        "inventory": 5
+      },
+      {
+        "id": "S3",
+        "cash": 1703.0950000000003,
+        "inventory": 10
+      },
+      {
         "id": "B4",
-        "cash": 301.86,
-        "inventory": 7
+        "cash": 397.60499999999996,
+        "inventory": 6
       },
       {
         "id": "S4",
-        "cash": 1498.965,
-        "inventory": 4
+        "cash": 1401.125,
+        "inventory": 3
       }
     ]
   },
   {
     "tick": 7,
-    "price": 99.585,
+    "price": 100.75,
     "agents": [
       {
         "id": "B0",
-        "cash": 501.225,
+        "cash": 497.705,
         "inventory": 5
       },
       {
         "id": "S0",
-        "cash": 1298.9299999999998,
-        "inventory": 5
-      },
-      {
-        "id": "B1",
-        "cash": 800.5699999999999,
-        "inventory": 2
-      },
-      {
-        "id": "S1",
-        "cash": 1797.7800000000002,
-        "inventory": 8
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
+        "id": "B1",
+        "cash": 296.515,
+        "inventory": 7
+      },
+      {
+        "id": "S1",
+        "cash": 1803.9650000000001,
+        "inventory": 4
+      },
+      {
+        "id": "B2",
+        "cash": 397.11999999999995,
+        "inventory": 6
+      },
+      {
         "id": "S2",
-        "cash": 1099.955,
-        "inventory": 14
-      },
-      {
-        "id": "B3",
-        "cash": 700.945,
-        "inventory": 3
-      },
-      {
-        "id": "S3",
-        "cash": 1000,
+        "cash": 1100.58,
         "inventory": 13
       },
       {
+        "id": "B3",
+        "cash": 397.0899999999999,
+        "inventory": 6
+      },
+      {
+        "id": "S3",
+        "cash": 1803.8950000000002,
+        "inventory": 9
+      },
+      {
         "id": "B4",
-        "cash": 202.27500000000003,
-        "inventory": 8
+        "cash": 397.60499999999996,
+        "inventory": 6
       },
       {
         "id": "S4",
-        "cash": 1598.32,
-        "inventory": 3
+        "cash": 1501.875,
+        "inventory": 2
       }
     ]
   },
   {
     "tick": 8,
-    "price": 99.325,
+    "price": 100.86500000000001,
     "agents": [
       {
         "id": "B0",
-        "cash": 401.90000000000003,
+        "cash": 396.83,
         "inventory": 6
       },
       {
         "id": "S0",
-        "cash": 1298.9299999999998,
-        "inventory": 5
-      },
-      {
-        "id": "B1",
-        "cash": 800.5699999999999,
-        "inventory": 2
-      },
-      {
-        "id": "S1",
-        "cash": 1897.0900000000001,
-        "inventory": 7
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
-        "id": "S2",
-        "cash": 1099.955,
-        "inventory": 14
+        "id": "B1",
+        "cash": 195.64999999999998,
+        "inventory": 8
       },
       {
-        "id": "B3",
-        "cash": 700.945,
+        "id": "S1",
+        "cash": 1904.765,
         "inventory": 3
       },
       {
+        "id": "B2",
+        "cash": 296.31999999999994,
+        "inventory": 7
+      },
+      {
+        "id": "S2",
+        "cash": 1201.455,
+        "inventory": 12
+      },
+      {
+        "id": "B3",
+        "cash": 397.0899999999999,
+        "inventory": 6
+      },
+      {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 1904.7600000000002,
+        "inventory": 8
       },
       {
         "id": "B4",
-        "cash": 102.96500000000003,
-        "inventory": 9
+        "cash": 296.80499999999995,
+        "inventory": 7
       },
       {
         "id": "S4",
-        "cash": 1697.645,
-        "inventory": 2
+        "cash": 1602.675,
+        "inventory": 1
       }
     ]
   },
   {
     "tick": 9,
-    "price": 99.29499999999999,
+    "price": 101.1,
     "agents": [
       {
         "id": "B0",
-        "cash": 302.57500000000005,
+        "cash": 295.71999999999997,
         "inventory": 7
       },
       {
         "id": "S0",
-        "cash": 1398.225,
-        "inventory": 4
-      },
-      {
-        "id": "B1",
-        "cash": 800.5699999999999,
-        "inventory": 2
-      },
-      {
-        "id": "S1",
-        "cash": 1996.4950000000001,
-        "inventory": 6
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
+        "id": "B1",
+        "cash": 94.54999999999998,
+        "inventory": 9
+      },
+      {
+        "id": "S1",
+        "cash": 2005.875,
+        "inventory": 2
+      },
+      {
+        "id": "B2",
+        "cash": 296.31999999999994,
+        "inventory": 7
+      },
+      {
         "id": "S2",
-        "cash": 1099.955,
-        "inventory": 14
+        "cash": 1201.455,
+        "inventory": 12
       },
       {
         "id": "B3",
-        "cash": 601.6500000000001,
-        "inventory": 4
+        "cash": 397.0899999999999,
+        "inventory": 6
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2005.8600000000001,
+        "inventory": 7
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 195.94999999999993,
+        "inventory": 8
       },
       {
         "id": "S4",
-        "cash": 1796.97,
-        "inventory": 1
+        "cash": 1703.53,
+        "inventory": 0
       }
     ]
   },
   {
     "tick": 10,
-    "price": 99.1,
+    "price": 101.43,
     "agents": [
       {
         "id": "B0",
-        "cash": 203.35000000000005,
+        "cash": 194.36499999999998,
         "inventory": 8
       },
       {
         "id": "S0",
-        "cash": 1398.225,
-        "inventory": 4
-      },
-      {
-        "id": "B1",
-        "cash": 800.5699999999999,
-        "inventory": 2
-      },
-      {
-        "id": "S1",
-        "cash": 2095.5950000000003,
-        "inventory": 5
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
+        "id": "B1",
+        "cash": 94.54999999999998,
+        "inventory": 9
+      },
+      {
+        "id": "S1",
+        "cash": 2107.305,
+        "inventory": 1
+      },
+      {
+        "id": "B2",
+        "cash": 296.31999999999994,
+        "inventory": 7
+      },
+      {
         "id": "S2",
-        "cash": 1199.1799999999998,
-        "inventory": 13
+        "cash": 1201.455,
+        "inventory": 12
       },
       {
         "id": "B3",
-        "cash": 502.55000000000007,
-        "inventory": 5
+        "cash": 397.0899999999999,
+        "inventory": 6
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2107.215,
+        "inventory": 6
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1796.97,
-        "inventory": 1
+        "cash": 1703.53,
+        "inventory": 0
       }
     ]
   },
   {
     "tick": 11,
-    "price": 99.03,
+    "price": 101.195,
     "agents": [
       {
         "id": "B0",
-        "cash": 203.35000000000005,
-        "inventory": 8
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1497.53,
-        "inventory": 3
-      },
-      {
-        "id": "B1",
-        "cash": 701.2649999999999,
-        "inventory": 3
-      },
-      {
-        "id": "S1",
-        "cash": 2095.5950000000003,
-        "inventory": 5
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
+        "id": "B1",
+        "cash": 94.54999999999998,
+        "inventory": 9
+      },
+      {
+        "id": "S1",
+        "cash": 2208.77,
+        "inventory": 0
+      },
+      {
+        "id": "B2",
+        "cash": 194.85499999999993,
+        "inventory": 8
+      },
+      {
         "id": "S2",
-        "cash": 1199.1799999999998,
-        "inventory": 13
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 403.5200000000001,
-        "inventory": 6
+        "cash": 295.8949999999999,
+        "inventory": 7
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2208.6400000000003,
+        "inventory": 5
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 12,
-    "price": 99.055,
+    "price": 100.99,
     "agents": [
       {
         "id": "B0",
-        "cash": 104.29500000000004,
+        "cash": 92.93999999999998,
         "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1596.65,
-        "inventory": 2
-      },
-      {
-        "id": "B1",
-        "cash": 701.2649999999999,
-        "inventory": 3
-      },
-      {
-        "id": "S1",
-        "cash": 2194.65,
-        "inventory": 4
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
+        "id": "B1",
+        "cash": 94.54999999999998,
+        "inventory": 9
+      },
+      {
+        "id": "S1",
+        "cash": 2208.77,
+        "inventory": 0
+      },
+      {
+        "id": "B2",
+        "cash": 93.86499999999994,
+        "inventory": 9
+      },
+      {
         "id": "S2",
-        "cash": 1199.1799999999998,
-        "inventory": 13
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 304.4000000000001,
+        "cash": 295.8949999999999,
         "inventory": 7
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2309.63,
+        "inventory": 4
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 13,
-    "price": 98.88,
+    "price": 100.785,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1695.5300000000002,
-        "inventory": 1
-      },
-      {
-        "id": "B1",
-        "cash": 701.2649999999999,
-        "inventory": 3
-      },
-      {
-        "id": "S1",
-        "cash": 2293.495,
-        "inventory": 3
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
+        "id": "B1",
+        "cash": 94.54999999999998,
+        "inventory": 9
+      },
+      {
+        "id": "S1",
+        "cash": 2208.77,
+        "inventory": 0
+      },
+      {
+        "id": "B2",
+        "cash": 93.86499999999994,
+        "inventory": 9
+      },
+      {
         "id": "S2",
-        "cash": 1199.1799999999998,
-        "inventory": 13
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 205.5200000000001,
+        "cash": 195.10999999999993,
         "inventory": 8
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2410.415,
+        "inventory": 3
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 14,
-    "price": 98.9,
+    "price": 100.94,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1695.5300000000002,
-        "inventory": 1
-      },
-      {
-        "id": "B1",
-        "cash": 602.3649999999999,
-        "inventory": 4
-      },
-      {
-        "id": "S1",
-        "cash": 2392.395,
-        "inventory": 2
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
+        "id": "B1",
+        "cash": 94.54999999999998,
+        "inventory": 9
+      },
+      {
+        "id": "S1",
+        "cash": 2208.77,
+        "inventory": 0
+      },
+      {
+        "id": "B2",
+        "cash": 93.86499999999994,
+        "inventory": 9
+      },
+      {
         "id": "S2",
-        "cash": 1199.1799999999998,
-        "inventory": 13
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 205.5200000000001,
-        "inventory": 8
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 15,
-    "price": 99.135,
+    "price": 101.53,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 503.1349999999999,
-        "inventory": 5
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2491.625,
-        "inventory": 1
-      },
-      {
-        "id": "B2",
-        "cash": 1000,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
+        "id": "B2",
+        "cash": 93.86499999999994,
+        "inventory": 9
+      },
+      {
         "id": "S2",
-        "cash": 1199.1799999999998,
-        "inventory": 13
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 106.38500000000009,
+        "cash": 94.16999999999993,
         "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 16,
-    "price": 99.16499999999999,
+    "price": 102.4,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 503.1349999999999,
-        "inventory": 5
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1199.1799999999998,
-        "inventory": 13
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 17,
-    "price": 99.09,
+    "price": 102.67,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 503.1349999999999,
-        "inventory": 5
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1199.1799999999998,
-        "inventory": 13
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 18,
-    "price": 98.52,
+    "price": 101.86,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 503.1349999999999,
-        "inventory": 5
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1199.1799999999998,
-        "inventory": 13
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 19,
-    "price": 98.52000000000001,
+    "price": 101.0,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 20,
-    "price": 99.12,
+    "price": 101.79,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 21,
-    "price": 100.0,
+    "price": 102.08,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 22,
-    "price": 100.46,
+    "price": 102.03,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 23,
-    "price": 100.65,
+    "price": 101.93,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 24,
-    "price": 101.51,
+    "price": 102.09,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 25,
-    "price": 101.69,
+    "price": 101.68,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 26,
-    "price": 101.27,
+    "price": 102.05,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 27,
-    "price": 101.92,
+    "price": 102.51,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 28,
-    "price": 101.19,
+    "price": 101.93,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 29,
-    "price": 101.25,
+    "price": 101.71,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 30,
-    "price": 101.11,
+    "price": 102.7,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 31,
-    "price": 100.3,
+    "price": 101.85,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 32,
-    "price": 100.65,
+    "price": 100.92,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 33,
-    "price": 100.62,
+    "price": 100.85,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 34,
-    "price": 99.73,
+    "price": 100.8,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 35,
-    "price": 99.45,
+    "price": 100.14,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 36,
-    "price": 99.84,
+    "price": 100.44,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 37,
-    "price": 100.1,
+    "price": 100.4,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 38,
-    "price": 99.9,
+    "price": 99.49,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 39,
-    "price": 99.01,
+    "price": 99.98,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 40,
-    "price": 99.11,
+    "price": 99.08,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 41,
-    "price": 99.29,
+    "price": 98.29,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 42,
-    "price": 99.87,
+    "price": 97.48,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 43,
-    "price": 100.44,
+    "price": 97.42,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 44,
-    "price": 99.81,
+    "price": 98.12,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 45,
-    "price": 100.61,
+    "price": 98.18,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 46,
-    "price": 100.32,
+    "price": 98.65,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 47,
-    "price": 101.23,
+    "price": 98.34,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 48,
-    "price": 101.15,
+    "price": 98.24,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]
   },
   {
     "tick": 49,
-    "price": 101.99,
+    "price": 98.95,
     "agents": [
       {
         "id": "B0",
-        "cash": 5.4500000000000455,
-        "inventory": 10
+        "cash": 92.93999999999998,
+        "inventory": 9
       },
       {
         "id": "S0",
-        "cash": 1794.6650000000002,
+        "cash": 1803.6499999999996,
         "inventory": 0
       },
       {
         "id": "B1",
-        "cash": 404.6149999999999,
-        "inventory": 6
+        "cash": 94.54999999999998,
+        "inventory": 9
       },
       {
         "id": "S1",
-        "cash": 2590.79,
+        "cash": 2208.77,
         "inventory": 0
       },
       {
         "id": "B2",
-        "cash": 1000,
-        "inventory": 0
+        "cash": 93.86499999999994,
+        "inventory": 9
       },
       {
         "id": "S2",
-        "cash": 1297.6999999999998,
-        "inventory": 12
+        "cash": 1302.6499999999999,
+        "inventory": 11
       },
       {
         "id": "B3",
-        "cash": 7.220000000000098,
-        "inventory": 10
+        "cash": 94.16999999999993,
+        "inventory": 9
       },
       {
         "id": "S3",
-        "cash": 1000,
-        "inventory": 13
+        "cash": 2511.355,
+        "inventory": 2
       },
       {
         "id": "B4",
-        "cash": 3.5600000000000307,
-        "inventory": 10
+        "cash": 94.51999999999992,
+        "inventory": 9
       },
       {
         "id": "S4",
-        "cash": 1896.0,
+        "cash": 1703.53,
         "inventory": 0
       }
     ]

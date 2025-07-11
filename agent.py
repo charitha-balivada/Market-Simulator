@@ -18,12 +18,11 @@ class Buyer(Agent):
         risk = self.strategy["risk_tolerance"]
         inventory_limit = self.strategy["inventory_limit"]
 
-        # More aggressive buying
         dynamic_threshold = threshold + random.uniform(0, 5 * risk)
 
         if market_price <= dynamic_threshold and self.cash >= market_price and self.inventory < inventory_limit:
-            bid_price = market_price + random.uniform(0.5, 1.5)  # Raise bid
-            bid_price = min(bid_price, self.cash)  # Don't overbid
+            bid_price = market_price + random.uniform(0.5, 1.5)  
+            bid_price = min(bid_price, self.cash)  
             return Order(self.agent_id, "buy", 1, round(bid_price, 2))
         return None
 
@@ -33,11 +32,10 @@ class Seller(Agent):
         threshold = self.strategy["price_threshold_sell"]
         risk = self.strategy["risk_tolerance"]
 
-        # More aggressive selling
         dynamic_threshold = threshold - random.uniform(0, 5 * risk)
 
         if market_price >= dynamic_threshold and self.inventory > 0:
-            ask_price = market_price - random.uniform(0.5, 1.5)  # Lower ask
-            ask_price = max(0.01, ask_price)  # Price can't go below 0
+            ask_price = market_price - random.uniform(0.5, 1.5)  
+            ask_price = max(0.01, ask_price)  
             return Order(self.agent_id, "sell", 1, round(ask_price, 2))
         return None

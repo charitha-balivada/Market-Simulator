@@ -21,7 +21,6 @@ class Market:
             price = (buy.price + sell.price) / 2
             quantity = min(buy.quantity, sell.quantity)
 
-            # Update buyer and seller directly
             buyer = agents_by_id[buy.agent_id]
             seller = agents_by_id[sell.agent_id]
 

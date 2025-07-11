@@ -24,7 +24,7 @@ def plot_wealth(logs, agent_id):
                 cash.append(agent["cash"])
                 inventory.append(agent["inventory"])
                 ticks.append(log["tick"])
-                break  # No need to loop further for that tick
+                break  
 
     fig, ax = plt.subplots(2, 1, figsize=(8, 6), sharex=True)
 
